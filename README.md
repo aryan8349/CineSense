@@ -133,3 +133,10 @@ streamlit run app/app.py
 
 
 * Enhanced embedding generation (transformer-based)
+## Screenshots
+
+### Recommendation Output
+![Demo](screenshots/demo.png)
+
+### EDA Visualization
+![EDA](screenshots/Top 5 genre trend.png)
