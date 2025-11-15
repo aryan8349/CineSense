@@ -136,7 +136,7 @@ streamlit run app/app.py
 ## Screenshots
 
 ### Recommendation Output
-![Demo](screenshots/demo.png)
+![Demo](screenshots/Demo.png)
 
 ### EDA Visualization
-![EDA](screenshots/Top 5 genre trend.png)
+![EDA Visualization](screenshots/Top_5_genre_trend.png)
