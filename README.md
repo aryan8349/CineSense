@@ -73,7 +73,7 @@ Streamlit UI + TMDb Poster Integration
 ---
 
 ## Repository Structure
-CineSense/
+CineSense/  
 ├── app/            # Streamlit application  
 ├── data/           # Raw and processed datasets  
 ├── model/          # FAISS index + saved vectors  
